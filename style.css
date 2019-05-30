@@ -88,6 +88,7 @@ Section {
     height: 40px;
     margin-top: 50px;
     padding: 10px;
+    font-weight: bold;
 }
 
 #p{
